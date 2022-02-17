@@ -2,5 +2,5 @@
 TD3 git
 salut
 ceci 
-est le 
-readme par defaut
+est fichier de 
+clement
